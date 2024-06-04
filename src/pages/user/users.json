@@ -1,0 +1,58 @@
+[
+  {
+    "imgSrc": "/ali@2x.png",
+    "name": "Nishant Dabre",
+    "you": true,
+    "id": 1,
+    "isOnline": true
+  },
+  {
+    "imgSrc": "/decio@2x.png",
+    "name": "Ankit",
+    "you": false,
+    "id": 2,
+    "isOnline": false
+  },
+  {
+    "imgSrc": "/no-photo-a.svg",
+    "name": "Vaishanv",
+    "you": false,
+    "id": 3,
+    "isOnline": true
+  },
+  {
+    "imgSrc": "/no-photo-b.svg",
+    "name": "Sara Singh",
+    "you": false,
+    "id": 4,
+    "isOnline": true
+  },
+  {
+    "imgSrc": "/no-photo-c.svg",
+    "name": "Rachel Harris",
+    "you": false,
+    "isOnline": true,
+    "id": 5
+  },
+  {
+    "imgSrc": "/no-photo-d.svg",
+    "name": "Daniel Orr",
+    "you": false,
+    "isOnline": true,
+    "id": 6
+  },
+  {
+    "imgSrc": "/no-photo-e.svg",
+    "name": "Isabella Truman",
+    "you": false,
+    "isOnline": false,
+    "id": 7
+  },
+  {
+    "imgSrc": "/no-photo-f.svg",
+    "name": "Marilyn Hart",
+    "you": false,
+    "isOnline": false,
+    "id": 8
+  }
+]

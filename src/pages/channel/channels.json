@@ -1,0 +1,51 @@
+[
+  {
+    "name": "general",
+    "imgSrc": "/hashtagthin.svg",
+    "title": "General Channel for all the general information",
+    "id": 1,
+    "isPrivate": false
+  },
+  {
+    "name": "social-media",
+    "imgSrc": "/hashtagthin.svg",
+    "title": "Track and coordinate social media",
+    "id": 2,
+    "isPrivate": false
+  },
+  {
+    "name": "product",
+    "imgSrc": "/hashtagthin.svg",
+    "title": "Channel for product regarding details",
+    "id": 3,
+    "isPrivate": false
+  },
+  {
+    "name": "sales",
+    "imgSrc": "/hashtagthin.svg",
+    "id": 4,
+    "isPrivate": false,
+    "title": "Channel for product regarding details"
+  },
+  {
+    "name": "operations",
+    "imgSrc": "/hashtagthin.svg",
+    "id": 5,
+    "isPrivate": false,
+    "title": "Channel for product regarding details"
+  },
+  {
+    "name": "private-channel",
+    "imgSrc": "/lock.svg",
+    "isPrivate": true,
+    "id": 6,
+    "title": "Channel for product regarding details"
+  },
+  {
+    "name": "ui/ux team",
+    "imgSrc": "/lock.svg",
+    "isPrivate": true,
+    "id": 7,
+    "title": "Channel for product regarding details"
+  }
+]
